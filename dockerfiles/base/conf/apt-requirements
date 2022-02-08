@@ -1,0 +1,26 @@
+# Ferramentas
+software-properties-common
+build-essential
+locales
+zlib1g-dev
+libncurses5-dev
+libgdbm-dev
+libnss3-dev
+libssl-dev
+libreadline-dev
+libffi-dev
+wget
+git
+curl
+unzip
+libz-dev
+libssl-dev
+libcurl4-gnutls-dev
+libexpat1-dev
+openssh-client
+gettext
+gettext-base
+cmake
+gcc
+mc
+
